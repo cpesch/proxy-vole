@@ -1,7 +1,7 @@
 # Change Log
 This file contains the change log.
 
-## Unreleased
+## 1.0.6
 * Fixed issue #74: Strings are not interpolated in logs
 * Fixed issue #10: IE fixed socks proxy parsed as http. Thanks to OnixGH!
 * Fixed issue #50: NullPointerException in Proxy-vole 1.0.5
